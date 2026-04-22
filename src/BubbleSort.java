@@ -31,6 +31,7 @@ public class BubbleSort {
         }
     }
 
+
     public void printArreglo(int[] numeros) {
         for(int i : numeros){
             System.out.print(i + ", ");
